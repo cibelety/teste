@@ -1,0 +1,4 @@
+#Wed Dec 27 19:37:45 BRST 2017
+base.0=/home/cibelety/AndroidStudioProjects/LearnJava/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
